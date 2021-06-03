@@ -1,0 +1,43 @@
+body {
+    background-image: url("rigging3.jpg");
+    width: 640px;
+    margin: 0 auto;
+    background-color:cadetblue
+}
+h1 {
+    padding: 1px;
+    margin: 1px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: black;
+    background-color:ivory;
+}
+h2 {
+    
+}
+p {
+    background-image: url("rigging.jpg");
+    padding: 1px;
+    margin: 1px;
+    height:800px;
+    border-width: 20px;
+    border-style:ridge
+    border-color: black;
+    background-color:rgb(245, 245, 245);
+}
+p1 {
+    height:auto
+    width:auto
+}
+div {
+    height:auto
+    width:auto
+}
+img.align-left {
+    float: left;
+    margin-right: 35px;
+}
+img.medium {
+    width: 150px;
+    height: 200px;
+}
