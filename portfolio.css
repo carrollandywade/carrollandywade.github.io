@@ -1,37 +1,59 @@
 body {
-    background-image: url("rigging3.jpg");
+    background-image: url("rigging.jpg");
     width: 640px;
     margin: 0 auto;
-    background-color:cadetblue
+
+    
 }
 h1 {
     padding: 1px;
     margin: 1px;
-    border-width: 0px;
+    border-width: 1px;
     border-style: solid;
-    border-color: black;
-    background-color:ivory;
+    border-color: white;
+    background-color:#cccccc;
+    color: black;
+    text-shadow: 2px 2px 7px #111111;
+    -moz-box-shadow: 3px 3px #777777;
+    -webkit-box-shadow: 3px 3px #777777;
+    box-shadow: 3px 3px #777777;
 }
 h2 {
-    
+   padding: 1px;
+    margin: 1px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    background-color:#cccccc;
+    color: #ffffff;
+    text-shadow: 2px 2px 7px #111111;
+    -moz-box-shadow: 3px 3px #777777;
+    -webkit-box-shadow: 3px 3px #777777;
+    box-shadow: 3px 3px #777777;
 }
 p {
-    background-image: url("rigging.jpg");
+    font-size: 100%;
+    color:black;
+    background-color:#cccccc;
+    text-shadow: 2px 2px 7px #111111;
     padding: 1px;
     margin: 1px;
     height:800px;
-    border-width: 20px;
-    border-style:ridge
-    border-color: black;
-    background-color:rgb(245, 245, 245);
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    -moz-box-shadow: 3px 3px #777777;
+    -webkit-box-shadow: 3px 3px #777777;
+    box-shadow: 3px 3px #777777;
 }
 p1 {
-    height:auto
-    width:auto
+    font-size: 30%;
+    height:auto;
+    width:auto;
 }
 div {
-    height:auto
-    width:auto
+    height:auto;
+    width:auto;
 }
 img.align-left {
     float: left;
