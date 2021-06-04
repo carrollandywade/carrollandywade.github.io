@@ -8,6 +8,7 @@ body {
 h1 {
     padding: 1px;
     margin: 1px;
+    text-indent: 10px;
     border-width: 1px;
     border-style: solid;
     border-color: white;
@@ -72,4 +73,8 @@ img.medium {
 }
 .indent {
     text-indent: 20px;
+}
+h6 {
+    font-size: 100%;
+    color:white;
 }
